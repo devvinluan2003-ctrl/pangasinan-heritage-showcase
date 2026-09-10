@@ -1,0 +1,3 @@
+import Link from 'next/link';
+import NavigationItem from '@/components/molecules/NavigationItem';
+export default function HeaderNavigation(){return <header className="site-header"><div className="header-inner"><Link href="/" className="brand" aria-label="Pangasinan Heritage home"><span className="brand-mark" aria-hidden="true">PH</span><span>Pangasinan Heritage</span></Link><nav aria-label="Primary navigation"><ul className="nav-list"><NavigationItem href="/">Home</NavigationItem><NavigationItem href="/heritage/">Heritage</NavigationItem><NavigationItem href="/about/">About</NavigationItem></ul></nav></div></header>}

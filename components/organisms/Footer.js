@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="site-footer"><div className="section-shell footer-inner"><p><strong>Pangasinan Heritage Digital Showcase</strong></p><p>Academic static-site prototype using Next.js and Atomic Design.</p></div></footer>}
