@@ -1,8 +1,8 @@
 # Pangasinan Heritage Digital Showcase
 
-**Student Name:** [Your Name]  
+**Student Name:** Vinluan, Christian Daniel  
 **Selected Framework:** Next.js 14 (App Router)  
-**Live Website:** [GitHub Pages URL]
+**Live Website:** https://devvinluan2003-ctrl.github.io/pangasinan-heritage-showcase/
 
 A mobile-first, accessible, static heritage and tourism showcase for Pangasinan. The project now contains **six destinations**: Hundred Islands National Park, Cape Bolinao Lighthouse, Balungao Hot Spring, Tondaligan Beach, Manaoag Church, and San Fabian Beach.
 
